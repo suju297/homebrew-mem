@@ -1,18 +1,19 @@
-# Suju297 Mem
+# suju297/homebrew-mem
 
-## How do I install these formulae?
+Homebrew tap for [`suju297/mem`](https://github.com/suju297/mem).
 
-`brew install suju297/mem/<formula>`
+## Install
 
-Or `brew tap suju297/mem` and then `brew install <formula>`.
-
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "suju297/mem"
-brew "<formula>"
+```bash
+brew tap suju297/mem
+brew install suju297/mem/mem-cli
 ```
 
-## Documentation
+## Available formulae
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+- `mem-cli`
+
+## Source
+
+- Source repo: [`suju297/mem`](https://github.com/suju297/mem)
+- Current packaged release: `v0.2.42`
