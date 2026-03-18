@@ -16,4 +16,4 @@ brew install suju297/mem/mem-cli
 ## Source
 
 - Source repo: [`suju297/mem`](https://github.com/suju297/mem)
-- Current packaged release: `v0.2.42`
+- Current packaged release: `v0.2.44`
